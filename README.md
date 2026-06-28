@@ -64,8 +64,6 @@ To launch Unet, run the following command in your terminal: "npm start"
 1. Developer: Nguyễn Khôi Nguyên
 2. GitHub: <NguyenKhoiNguyen-UN>
 
---
-
 ## 💻 System Requirements
 
 To run **Unet** smoothly, your system should meet the following minimum specifications:
@@ -81,7 +79,6 @@ To run **Unet** smoothly, your system should meet the following minimum specific
 > [!NOTE]
 > An active internet connection is required since Unet integrates web-based services directly into its interface.
 
----
 
 ## ⚠️ OS Compatibility & UI Warning
 
