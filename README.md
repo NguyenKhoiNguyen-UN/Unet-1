@@ -13,22 +13,22 @@ The main interface displaying the Google home page, integrated beautifully withi
 
 ### Browser Menu
 A clean, custom context menu providing essential browser controls like New Tab, Downloads, Settings, and Developer Tools.
-![Unet Browser Menu](ĐƯỜNG_DẪN_ẢNH_2_HOẶC_KÉO_THẢ_VÀO_ĐÂY)
+![Unet Browser Menu](photos/2.png)
 *(Reference: Ảnh chụp màn hình 2026-06-28 225414.jpg)*
 
 ### Web Navigation & Context Menu
 Smooth video streaming experience on YouTube along with a native right-click context menu for seamless navigation (Back, Forward, Reload, Inspect).
-![Unet Web Navigation](ĐƯỜNG_DẪN_ẢNH_3_HOẶC_KÉO_THẢ_VÀO_ĐÂY)
+![Unet Web Navigation](photos/3.png)
 *(Reference: Ảnh chụp màn hình 2026-06-28 225439.jpg)*
 
 ### Loading State
 A modern loading indicator featuring the Unet brand logo branding while fetching web content.
-![Unet Loading State](ĐƯỜNG_DẪN_ẢNH_4_HOẶC_KÉO_THẢ_VÀO_ĐÂY)
+![Unet Loading State](photos/4.png)
 *(Reference: Ảnh chụp màn hình 2026-06-28 225626.jpg)*
 
 ### Application Information
 System installation and version details indicating an optimized bundle size of 359 MB.
-![Unet App Info](ĐƯỜNG_DẪN_ẢNH_5_HOẶC_KÉO_THẢ_VÀO_ĐÂY)
+![Unet App Info](photos/5.png)
 *(Reference: Ảnh chụp màn hình 2026-06-28 225754.png)*
 
 ## Features
