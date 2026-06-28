@@ -64,6 +64,23 @@ To launch Unet, run the following command in your terminal: "npm start"
 1. Developer: Nguyễn Khôi Nguyên
 2. GitHub: <NguyenKhoiNguyen-UN>
 
+--
+
+## 💻 System Requirements
+
+To run **Unet** smoothly, your system should meet the following minimum specifications:
+
+| Component | Minimum Requirement | Recommended Specification |
+| :--- | :--- | :--- |
+| **Operating System** | Windows 7 (64-bit) or higher | Windows 11 (64-bit) *for best UI effects* |
+| **Processor** | Intel Core i3 / AMD Ryzen 3 or equivalent | Intel Core i5 / AMD Ryzen 5 or higher |
+| **Memory (RAM)** | 2 GB RAM | 4 GB RAM or more |
+| **Storage** | 500 MB available space | 1 GB available space *(for app & web cache)* |
+| **Graphics** | Any standard integrated graphics | DirectX 11 compatible graphics |
+
+> [!NOTE]
+> An active internet connection is required since Unet integrates web-based services directly into its interface.
+
 ---
 
 ## ⚠️ OS Compatibility & UI Warning
