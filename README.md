@@ -2,6 +2,35 @@
 
 Unet is a lightweight, high-performance, and minimal desktop web browser built on top of Electron and webview technologies. Designed with a clean interface and optimized resource management, Unet provides a seamless multi-tab browsing experience without overwhelming system memory.
 
+## Screenshots
+
+Here is a preview of **Unet (v1.64.10)** in action, showcasing its sleek dark interface with elegant acrylic/blur effects:
+
+### Home Page
+The main interface displaying the Google home page, integrated beautifully within the custom browser frame.
+![Unet Home Page](photos/1.png)
+*(Reference: Ảnh chụp màn hình 2026-06-28 225400.jpg)*
+
+### Browser Menu
+A clean, custom context menu providing essential browser controls like New Tab, Downloads, Settings, and Developer Tools.
+![Unet Browser Menu](ĐƯỜNG_DẪN_ẢNH_2_HOẶC_KÉO_THẢ_VÀO_ĐÂY)
+*(Reference: Ảnh chụp màn hình 2026-06-28 225414.jpg)*
+
+### Web Navigation & Context Menu
+Smooth video streaming experience on YouTube along with a native right-click context menu for seamless navigation (Back, Forward, Reload, Inspect).
+![Unet Web Navigation](ĐƯỜNG_DẪN_ẢNH_3_HOẶC_KÉO_THẢ_VÀO_ĐÂY)
+*(Reference: Ảnh chụp màn hình 2026-06-28 225439.jpg)*
+
+### Loading State
+A modern loading indicator featuring the Unet brand logo branding while fetching web content.
+![Unet Loading State](ĐƯỜNG_DẪN_ẢNH_4_HOẶC_KÉO_THẢ_VÀO_ĐÂY)
+*(Reference: Ảnh chụp màn hình 2026-06-28 225626.jpg)*
+
+### Application Information
+System installation and version details indicating an optimized bundle size of 359 MB.
+![Unet App Info](ĐƯỜNG_DẪN_ẢNH_5_HOẶC_KÉO_THẢ_VÀO_ĐÂY)
+*(Reference: Ảnh chụp màn hình 2026-06-28 225754.png)*
+
 ## Features
 
 - **Dynamic Multi-Tab System**: Easily open, close, and switch between tabs dynamically.
