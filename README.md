@@ -86,7 +86,7 @@ To run **Unet** smoothly, your system must meet the following minimum specificat
 > [!WARNING]
 > **Visual Effects (Mica/Acrylic) Compatibility Notice:**
 > * **Windows 11:** Fully supported. The application features dynamic Mica and Acrylic blur effects that sync beautifully with your system theme and wallpaper.
-> * **Windows 10 down to Windows 7:** Due to operating system architectural limitations, these advanced blur effects **cannot be rendered**. 
+> * **Windows 10:** Due to operating system architectural limitations, these advanced blur effects **cannot be rendered**. 
 >   * *What happens?* The interface will automatically fallback to a flat, solid dark theme. 
 >   * *Why?* This ensures the application remains highly performant, lightweight, and completely free of lag or visual glitches on older Windows environments.
 
